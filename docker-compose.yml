@@ -1,0 +1,7 @@
+version: "3.9"
+services:
+  proxmox-translation:
+    image: navystack/proxmox-korean:latest
+    volumes:
+      - ./ko.po:/Proxmox-KOREAN/ko.po
+      - ./:/output

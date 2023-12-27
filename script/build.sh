@@ -21,11 +21,11 @@ make deb \
     || { echo "Error build to deb packages"; exit 1; }
 
 echo "Moving files to /output directory..."
-mv ./*-*-ko.js /output \
+cp ./*-*-ko.js /output \
     && echo "pbs-lang-ko.js moved to /output." \
     || { echo "Error moving pbs-lang-ko.js to /output"; exit 1; }
 
-mv ./*.deb /output \
+cp ./*.deb /output \
     && echo "All deb package moved to /output." \
     || { echo "Error moving deb packages to /output"; exit 1; }
 

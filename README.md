@@ -10,9 +10,13 @@
 1. 본 리포지토리를 포크합니다.
 2. `kr.po` 파일을 수정하고
 3. `docker compose up -d` 하시면 `dist` 폴더에 빌드된 파일이 저장됩니다.
-4. `pve-lang-ko.js` 등의 파일을 `/usr/share/pve-i18n` 디렉토리로 옮기면 테스트 가능합니다.
-5. 혹은 `*.deb` 패키지를 설치합니다.
-6. 확인 후, PR을 합니다.
+4. `pve-lang-kr.js` 등의 파일을 `/usr/share/pve-i18n` 디렉토리로 옮기면 테스트 가능합니다.
+```bash
+sudo cp pve-lang-kr.js /usr/share/pve-i18n/pve-lang-kr.js
+```
+5. Web UI 재로드 ```CTRL + SHIFT + R```
+6. 혹은 `*.deb` 패키지를 설치합니다.
+7. 확인 후, PR을 합니다.
 
 ## 기타
 * 일관적인 단어 사용을 위해 노력했습니다.
@@ -25,6 +29,7 @@
 * 원문의 단어가 한국어로 번역되었을 때, 오도 할 수 있는 경우, 원문의 단어를 병기했습니다.
 * 전체는 [여기](https://pve.proxmox.com/wiki/Translating_Proxmox_VE)를 참고하세요
 * 파일 이름이 `kr.po`인 이유는 최초 기여자가 그렇게 했기 때문입니다. `ISO에 따른 규격으로는 ko-KR`로 표현할 수 있지만, 제가 깊게 관여할 수 없어 그대로 두었습니다.
+* **ISO 639에 따라 ko.po로 파일명 변경 예정입니다.**
 
 ## 라이선스
 

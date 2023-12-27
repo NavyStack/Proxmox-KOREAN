@@ -9,7 +9,7 @@
 ## 리포지토리 포크 하고, 빌트, 테스트해보기
 1. 본 리포지토리를 포크합니다.
 2. `kr.po` 파일을 수정하고
-3. `docker compose up -d` 하시면 `dist` 폴더에 빌드된 파일이 저장됩니다.
+3. `docker compose up` 하시면 `dist` 폴더에 빌드된 파일이 저장됩니다. '-d' 옵션을 빼고 하시길 추천드립니다. 그래야 로그가 보여요 :)
 4. `pve-lang-kr.js` 등의 파일을 `/usr/share/pve-i18n` 디렉토리로 옮기면 테스트 가능합니다.
 ```bash
 sudo cp pve-lang-kr.js /usr/share/pve-i18n/pve-lang-kr.js

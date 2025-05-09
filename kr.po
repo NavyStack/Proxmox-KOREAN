@@ -9534,7 +9534,7 @@ msgstr "스냅샷"
 #: pve-manager/www/manager6/Utils.js:692
 #: pve-manager/www/manager6/storage/Browser.js:113
 msgid "Snippets"
-msgstr "스니페ㅛ"
+msgstr "스니펫"
 
 #: proxmox-widget-toolkit/src/Schema.js:66
 #: proxmox-widget-toolkit/src/Utils.js:1032
@@ -9591,11 +9591,11 @@ msgstr "슬롯 소스"
 
 #: pve-manager/www/manager6/window/Migrate.js:337
 msgid "Source node"
-msgstr "Source node"
+msgstr "소스 노드"
 
 #: pve-manager/www/manager6/grid/FirewallRules.js:329
 msgid "Source port"
-msgstr "Source port"
+msgstr "소스 포"트
 
 #: proxmox-widget-toolkit/src/node/NetworkEdit.js:72
 #: proxmox-widget-toolkit/src/node/NetworkEdit.js:82
@@ -9654,11 +9654,11 @@ msgstr "속도"
 #: pve-manager/www/manager6/qemu/Options.js:306
 #: pve-manager/www/manager6/qemu/Options.js:311
 msgid "Spice Enhancements"
-msgstr "Spice Enhancements"
+msgstr "Spice 향상된 기능"
 
 #: pve-manager/www/manager6/qemu/USBEdit.js:78
 msgid "Spice Port"
-msgstr "Spice Port"
+msgstr "Spice 포트"
 
 #: pve-manager/www/manager6/dc/Cluster.js:209
 #: pve-manager/www/manager6/dc/Health.js:33

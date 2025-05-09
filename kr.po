@@ -9595,7 +9595,7 @@ msgstr "소스 노드"
 
 #: pve-manager/www/manager6/grid/FirewallRules.js:329
 msgid "Source port"
-msgstr "소스 포"트
+msgstr "소스 포트"
 
 #: proxmox-widget-toolkit/src/node/NetworkEdit.js:72
 #: proxmox-widget-toolkit/src/node/NetworkEdit.js:82

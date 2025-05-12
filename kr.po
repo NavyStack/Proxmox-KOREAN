@@ -6686,7 +6686,7 @@ msgstr "구독없음"
 #: pve-manager/www/manager6/sdn/controllers/IsisEdit.js:26
 #: pve-manager/www/manager6/window/Settings.js:184
 msgid "Node"
-msgstr "노트"
+msgstr "노드"
 
 #: pve-manager/www/manager6/dc/Backup.js:599
 msgid "Node is offline"
@@ -6703,7 +6703,7 @@ msgstr "노드 유형"
 
 #: pve-manager/www/manager6/dc/Cluster.js:281
 msgid "Nodename"
-msgstr "노트명"
+msgstr "노드명"
 
 #: pmg-gui/js/ClusterAdministration.js:128
 #: pve-manager/www/manager6/dc/Health.js:102

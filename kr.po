@@ -6836,7 +6836,7 @@ msgstr "찾을 수 없음"
 
 #: proxmox-widget-toolkit/src/window/NotificationMatcherEdit.js:1097
 msgid "Notice"
-msgstr "공지"
+msgstr "통지"
 
 #: pmg-gui/js/Utils.js:506 pve-manager/www/manager6/dc/BackupJobDetail.js:206
 msgid "Notification"
@@ -6870,6 +6870,7 @@ msgid "Notification system"
 msgstr "통지 시스템"
 
 #: pve-manager/www/manager6/dc/Config.js:334
+#: proxmox-backup/www/NavigationTree.js:72
 msgid "Notifications"
 msgstr "통지"
 
@@ -6972,7 +6973,7 @@ msgstr "실패 시에만"
 #: proxmox-backup/www/tape/TapeInventory.js:93
 #: proxmox-backup/www/tape/TapeInventory.js:276
 msgid "On-site"
-msgstr "On-site"
+msgstr "온-사이트"
 
 #: pve-manager/www/manager6/data/ResourceStore.js:87
 #: pve-manager/www/manager6/dc/Health.js:106
@@ -10787,7 +10788,7 @@ msgstr "상위 수신자"
 #: proxmox-backup/www/ServerStatus.js:241
 #: proxmox-backup/www/datastore/Summary.js:254
 msgid "Total"
-msgstr "Total"
+msgstr "총 용량"
 
 #: pve-manager/www/manager6/data/ResourceStore.js:200
 msgid "Total Disk Read"
@@ -12693,7 +12694,7 @@ msgstr "{0} 개월"
 
 #: pve-manager/www/manager6/Utils.js:1729
 msgid "{0} not installed."
-msgstr "{0}이(가) 설치되지 않았습니"
+msgstr "{0}이(가) 설치되지 않았습니다."
 
 #: proxmox-widget-toolkit/src/Utils.js:1007
 #: pve-manager/www/manager6/ceph/Status.js:327
@@ -12701,7 +12702,7 @@ msgstr "{0}이(가) 설치되지 않았습니"
 #: pve-manager/www/manager6/dc/Summary.js:200 proxmox-backup/www/Utils.js:316
 #: proxmox-backup/www/datastore/DataStoreListSummary.js:57
 msgid "{0} of {1}"
-msgstr "{0} of {1}"
+msgstr "{1}의 {0}"
 
 #: pmg-gui/js/Utils.js:821
 msgid "{0} on behalf of {1}"
@@ -12737,4 +12738,4 @@ msgstr "{0} 년"
 
 #: proxmox-widget-toolkit/src/Utils.js:995
 msgid "{0}% of {1}"
-msgstr "{0}% 중 {1}"
+msgstr "{1}의 {0}%"

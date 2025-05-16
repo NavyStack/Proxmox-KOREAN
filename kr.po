@@ -12699,10 +12699,11 @@ msgstr "{0}이(가) 설치되지 않았습니다."
 #: proxmox-widget-toolkit/src/Utils.js:1007
 #: pve-manager/www/manager6/ceph/Status.js:327
 #: pve-manager/www/manager6/dc/Summary.js:197
-#: pve-manager/www/manager6/dc/Summary.js:200 proxmox-backup/www/Utils.js:316
+#: pve-manager/www/manager6/dc/Summary.js:200 
+#: proxmox-backup/www/Utils.js:316
 #: proxmox-backup/www/datastore/DataStoreListSummary.js:57
 msgid "{0} of {1}"
-msgstr "{1}의 {0}"
+msgstr "{1} 중 {0}"
 
 #: pmg-gui/js/Utils.js:821
 msgid "{0} on behalf of {1}"
@@ -12738,4 +12739,4 @@ msgstr "{0} 년"
 
 #: proxmox-widget-toolkit/src/Utils.js:995
 msgid "{0}% of {1}"
-msgstr "{1}의 {0}%"
+msgstr "{0}% / {1}"

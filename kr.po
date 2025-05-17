@@ -6989,11 +6989,11 @@ msgstr "이름 / VMID"
 
 #: pve-manager/www/manager6/storage/ContentView.js:113
 msgid "Name, Format"
-msgstr "이름, 유형"
+msgstr "이름, 형식"
 
 #: pve-manager/www/manager6/storage/ContentView.js:113
 msgid "Name, Format, Notes"
-msgstr "이름, 유형, 메모"
+msgstr "이름, 형식, 메모"
 
 #: proxmox-widget-toolkit/src/panel/WebhookEditPanel.js:254
 #, fuzzy
@@ -9972,7 +9972,7 @@ msgstr "공용 네트워크와 동일"
 #: proxmox-backup/www/window/TrafficControlEdit.js:264
 #: proxmox-backup/www/window/TrafficControlEdit.js:271
 msgid "Same as Rate"
-msgstr "Same as Rate"
+msgstr "비율와 동일"
 
 #: pve-manager/www/manager6/lxc/Network.js:285
 msgid "Same as bridge"

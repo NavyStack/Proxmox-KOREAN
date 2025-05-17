@@ -7524,12 +7524,12 @@ msgstr "구독없음"
 #: pve-manager/www/manager6/window/DirMapEdit.js:145
 #: pve-manager/www/manager6/window/Settings.js:188
 msgid "Node"
-msgstr "노트"
+msgstr "노드"
 
 #: pve-manager/www/manager6/Utils.js:2100
 #, fuzzy
 msgid "Node fencing notifications"
-msgstr "백업 구성에서"
+msgstr "노드 Fencing 통지"
 
 #: pve-manager/www/manager6/dc/Backup.js:634
 msgid "Node is offline"
@@ -7546,7 +7546,7 @@ msgstr "노드 유형"
 
 #: pve-manager/www/manager6/dc/Cluster.js:281
 msgid "Nodename"
-msgstr "노트명"
+msgstr "노드명"
 
 #: pmg-gui/js/ClusterAdministration.js:128
 #: pve-manager/www/manager6/dc/Health.js:102
@@ -10718,7 +10718,7 @@ msgstr "스냅샷"
 #: pve-manager/www/manager6/Utils.js:693
 #: pve-manager/www/manager6/storage/Browser.js:119
 msgid "Snippets"
-msgstr "스니페ㅛ"
+msgstr "스니펫"
 
 #: proxmox-widget-toolkit/src/Schema.js:96
 #: proxmox-widget-toolkit/src/Utils.js:1084

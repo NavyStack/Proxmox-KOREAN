@@ -11398,9 +11398,8 @@ msgid "System Configuration"
 msgstr "시스템 구성"
 
 #: pve-manager/www/manager6/node/Config.js:250
-#, fuzzy
 msgid "System Log"
-msgstr "시스템"
+msgstr "시스템 로그"
 
 #: pmg-gui/js/Subscription.js:52 pmg-gui/js/Subscription.js:185
 #: pve-manager/www/manager6/node/Subscription.js:57

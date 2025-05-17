@@ -6211,14 +6211,14 @@ msgstr "기본 브릿지에서 MTU를 상속하려면 MTU가 >= 576 또는 1이�
 #: pve-manager/www/manager6/qemu/MachineEdit.js:183
 #: pve-manager/www/manager6/qemu/SystemEdit.js:90
 msgid "Machine"
-msgstr "Machine"
+msgstr "머신"
 
 #: pve-manager/www/manager6/qemu/MachineEdit.js:142
 msgid ""
 "Machine version change may affect hardware layout and settings in the guest "
 "OS."
 msgstr ""
-"Machine 버전 변경은 게스트 OS의 하드웨어 레이아웃 및 설정에 영향을 줄 수 있습"
+"머신 버전 변경은 게스트 OS의 하드웨어 레이아웃 및 설정에 영향을 줄 수 있습"
 "니다."
 
 #: pve-manager/www/manager6/grid/FirewallRules.js:13

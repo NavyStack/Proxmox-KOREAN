@@ -10463,7 +10463,7 @@ msgstr "공유"
 #: pve-manager/www/manager6/node/Config.js:162
 #: proxmox-backup/www/NavigationTree.js:93
 msgid "Shell"
-msgstr "Shell"
+msgstr "셸"
 
 #: pmg-gui/js/SpamQuarantineOptions.js:15
 msgid "Short"
@@ -10489,7 +10489,7 @@ msgstr "구성 표시"
 #: proxmox-backup/www/datastore/Summary.js:230
 #, fuzzy
 msgid "Show Connection Information"
-msgstr "참여 정보"
+msgstr "연결 정보 표시"
 
 #: pmg-gui/js/LDAPConfig.js:443
 msgid "Show E-Mail addresses"
@@ -10532,7 +10532,7 @@ msgstr "작업 세부 정보 및 백업 작업에 영향을 받는 게스트 및
 
 #: proxmox-widget-toolkit/src/node/ServiceView.js:49
 msgid "Show only installed services"
-msgstr ""
+msgstr "설치된 서비스만 표시"
 
 #: pmg-gui/js/ServerStatus.js:73 pmg-gui/js/ServerStatus.js:75
 #: pve-manager/www/manager6/Utils.js:2026
@@ -10588,7 +10588,7 @@ msgstr "모든 발신 메일에 서명"
 
 #: pmg-gui/js/ClamAVDatabase.js:100
 msgid "Signatures"
-msgstr "Signatures"
+msgstr "서명"
 
 #: proxmox-backup/www/Utils.js:26
 msgid "Signed"
@@ -10646,7 +10646,7 @@ msgstr "단일 디스크"
 #: proxmox-backup/www/datastore/Content.js:1079
 #: proxmox-backup/www/form/PartitionSelector.js:65
 msgid "Size"
-msgstr "사이즈"
+msgstr "크기"
 
 #: pve-manager/www/manager6/lxc/MPResize.js:55
 #: pve-manager/www/manager6/qemu/HDResize.js:56
@@ -10672,16 +10672,16 @@ msgstr "복제 생략"
 #: proxmox-widget-toolkit/src/node/NetworkEdit.js:205
 #: proxmox-widget-toolkit/src/node/NetworkEdit.js:356
 msgid "Slaves"
-msgstr "Slaves"
+msgstr "슬레이브"
 
 #: pve-manager/www/manager6/window/GuestImport.js:779
 #, fuzzy
 msgid "Slot"
-msgstr "Slots"
+msgstr "슬롯"
 
 #: proxmox-backup/www/tape/ChangerStatus.js:711
 msgid "Slots"
-msgstr "Slots"
+msgstr "슬롯"
 
 #: proxmox-widget-toolkit/src/Utils.js:88
 msgid "Slovenian"
@@ -10690,7 +10690,7 @@ msgstr "슬로베니아어"
 #: pmg-gui/js/MailProxyRelaying.js:41 pmg-gui/js/MailProxyRelaying.js:65
 #: pmg-gui/js/MailProxyRelaying.js:75
 msgid "Smarthost"
-msgstr "Smarthost"
+msgstr "스마트호스트"
 
 #: pve-manager/www/manager6/Utils.js:2054
 #: pve-manager/www/manager6/Utils.js:2082

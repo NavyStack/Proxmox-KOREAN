@@ -13252,7 +13252,7 @@ msgstr "When"
 
 #: pmg-gui/js/NavigationTree.js:40 pmg-gui/js/Utils.js:57
 msgid "When Objects"
-msgstr "What Objects"
+msgstr "When Objects"
 
 #: pve-manager/www/manager6/window/PCIMapEdit.js:181
 msgid ""

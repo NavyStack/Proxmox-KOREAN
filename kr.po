@@ -11547,7 +11547,7 @@ msgstr "태스크"
 #: pve-manager/www/manager6/node/Config.js:436
 #: pve-manager/www/manager6/qemu/Config.js:309
 msgid "Task History"
-msgstr "작업 기록"
+msgstr "태스크 기록"
 
 #: proxmox-widget-toolkit/src/window/TaskViewer.js:157
 msgid "Task ID"
@@ -11561,7 +11561,7 @@ msgstr "태스크 결과"
 #: proxmox-backup/www/dashboard/TaskSummary.js:5
 #: proxmox-backup/www/datastore/DataStoreListSummary.js:246
 msgid "Task Summary"
-msgstr "작업 개요"
+msgstr "태스크 개요"
 
 #: proxmox-widget-toolkit/src/node/Tasks.js:335
 msgid "Task Type"

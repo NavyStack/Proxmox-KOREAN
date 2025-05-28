@@ -20,7 +20,7 @@ msgstr ""
 #: proxmox-backup/www/tape/window/TapeBackup.js:127
 #: proxmox-backup/www/tape/window/TapeBackupJob.js:224
 msgid "# of Worker Threads"
-msgstr "작업자 스레드 번호"
+msgstr "작업자 스레드 수"
 
 #: pmg-gui/js/SystemOptions.js:85
 msgid "'From:' for Admin Mail"

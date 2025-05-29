@@ -240,7 +240,7 @@ msgstr "계정"
 #: pve-manager/www/manager6/grid/FirewallRules.js:237
 #: pve-manager/www/manager6/grid/FirewallRules.js:915
 msgid "Action"
-msgstr "액션"
+msgstr "동작"
 
 #: pmg-gui/js/controller/QuarantineController.js:97
 msgid "Action '{0}' for '{1}' items"
@@ -268,7 +268,7 @@ msgstr "작업 오브젝트"
 #: proxmox-backup/www/tape/ChangerStatus.js:894
 #: proxmox-backup/www/tape/ChangerStatus.js:964
 msgid "Actions"
-msgstr "액션"
+msgstr "동작"
 
 #: proxmox-widget-toolkit/src/form/NetworkSelector.js:107
 #: proxmox-widget-toolkit/src/node/NetworkView.js:286
@@ -1302,7 +1302,7 @@ msgstr "불가리아어"
 
 #: pve-manager/www/manager6/node/Config.js:35
 msgid "Bulk Actions"
-msgstr "일괄 작업"
+msgstr "대량 동작"
 
 #: pve-manager/www/manager6/node/CmdMenu.js:74
 #: pve-manager/www/manager6/node/CmdMenu.js:80
@@ -3145,7 +3145,7 @@ msgstr "디스크"
 
 #: pve-manager/www/manager6/qemu/HardwareView.js:476
 msgid "Disk Action"
-msgstr "디스크 Action"
+msgstr "디스크 동작"
 
 #: pve-manager/www/manager6/panel/GuestSummary.js:100
 msgid "Disk IO"
@@ -6369,7 +6369,7 @@ msgstr "최대 재시작"
 
 #: pve-manager/www/manager6/dc/OptionView.js:318
 msgid "Maximal Workers/bulk-action"
-msgstr "최대 워커/일괄 작업"
+msgstr "최대 워커/일괄 동작"
 
 #: pve-manager/www/manager6/panel/BackupJobPrune.js:116
 msgid "Maximum Protected"
@@ -13095,7 +13095,7 @@ msgstr "볼륨"
 
 #: pve-manager/www/manager6/lxc/Resources.js:296
 msgid "Volume Action"
-msgstr "볼륨 작업"
+msgstr "볼륨 동작"
 
 #: pve-manager/www/manager6/ceph/OSDDetails.js:248
 msgid "Volume Details for {0}"

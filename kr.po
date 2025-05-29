@@ -6369,7 +6369,7 @@ msgstr "최대 재시작"
 
 #: pve-manager/www/manager6/dc/OptionView.js:318
 msgid "Maximal Workers/bulk-action"
-msgstr "최대 워커/일괄 동작"
+msgstr "최대 작업자/일괄 동작"
 
 #: pve-manager/www/manager6/panel/BackupJobPrune.js:116
 msgid "Maximum Protected"

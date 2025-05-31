@@ -3109,7 +3109,7 @@ msgstr ""
 
 #: pve-manager/www/manager6/qemu/HDEdit.js:249
 msgid "Discard"
-msgstr "삭제"
+msgstr "버리기"
 
 #: pmg-gui/js/PostfixQShape.js:109
 msgid "Discard address verification database"

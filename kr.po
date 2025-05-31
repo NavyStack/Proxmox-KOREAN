@@ -5101,7 +5101,7 @@ msgstr "IOMMU 그룹"
 
 #: pve-manager/www/manager6/dc/PCIMapView.js:96
 msgid "IOMMU-Group"
-msgstr "IOMMU-Group"
+msgstr "IOMMU-그룹"
 
 #: proxmox-widget-toolkit/src/form/NetworkSelector.js:97
 #: pmg-gui/js/ClusterAdministration.js:240
@@ -11768,7 +11768,7 @@ msgstr "{0} ID는 이미 사용 중입니다."
 
 #: pve-manager/www/manager6/panel/BackupAdvancedOptions.js:176
 msgid "Threads used for zstd compression (non-PBS)."
-msgstr ""
+msgstr "zstd 압축에 사용되는 스레드(PBS 아님)."
 
 #: proxmox-widget-toolkit/src/window/DiskSmart.js:52
 msgid "Threshold"
@@ -11818,7 +11818,7 @@ msgstr "시간대"
 
 #: pmg-gui/js/Utils.js:307
 msgid "TimeFrame"
-msgstr "TimeFrame"
+msgstr "타임프레임"
 
 #: proxmox-backup/www/config/TrafficControlView.js:180
 #: proxmox-backup/www/window/TrafficControlEdit.js:289
@@ -11827,7 +11827,7 @@ msgstr "타임프레임"
 
 #: proxmox-widget-toolkit/src/Utils.js:1321
 msgid "Timeout"
-msgstr "Timeout"
+msgstr "타임아웃"
 
 #: pve-manager/www/manager6/dc/MetricServerView.js:323
 #: pve-manager/www/manager6/window/BulkAction.js:128

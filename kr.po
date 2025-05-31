@@ -1134,7 +1134,7 @@ msgstr "잘못된 요청(Bad Request)"
 
 #: pve-manager/www/manager6/qemu/MemoryEdit.js:124
 msgid "Ballooning Device"
-msgstr "메모리 발루닝 디바이스"
+msgstr "벌루닝 디바이스"
 
 #: pve-manager/www/manager6/qemu/HDEdit.js:422
 msgid "Bandwidth"

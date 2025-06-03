@@ -1,4 +1,4 @@
-# SPDX-License-Identifier: AGPL-3.0-or-later
+=# SPDX-License-Identifier: AGPL-3.0-or-later
 # Copyright (C) Proxmox Server Solutions GmbH <support@proxmox.com> & the translation contributors.
 #
 # Korean translations for the (web) UI's of Proxmox projects.
@@ -13444,7 +13444,7 @@ msgstr "VNC 클립보드를 사용하는 동안에는 라이브 마이그레이�
 msgid ""
 "You cannot use the default SPICE clipboard if the VNC clipboard is selected."
 msgstr ""
-""VNC 클립보드가 선택된 경우 기본 SPICE 클립보드를 사용할 수 없습니다."
+"VNC 클립보드가 선택된 경우 기본 SPICE 클립보드를 사용할 수 없습니다."
 
 #: proxmox-widget-toolkit/src/Utils.js:161
 msgid ""

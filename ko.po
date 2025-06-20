@@ -2598,11 +2598,11 @@ msgstr "대시보드 스토리지"
 
 #: pve-manager/www/manager6/node/ZFS.js:130
 msgid "Data Devs"
-msgstr "Data Devs"
+msgstr "데이터 Devs"
 
 #: pve-manager/www/manager6/ceph/FS.js:160
 msgid "Data Pool"
-msgstr "Data 풀"
+msgstr "데이터 풀"
 
 #: proxmox-backup/www/datastore/OptionView.js:270
 msgid "Data Sync Level"
@@ -11025,14 +11025,16 @@ msgid ""
 "Storage(s) ({0}) not available on selected target. Start VM to use live "
 "storage migration or select other target node."
 msgstr ""
+"선택한 대상에서 저장소({0})를 사용할 수 없습니다. 라이브 저장소 마이그레이션을 사용하"
+"려면 VM을 시작하거나 다른 대상 노드를 선택하십시오."
 
 #: pve-manager/www/manager6/qemu/PCIEdit.js:329
 msgid "Sub-Device ID"
-msgstr "Sub-Device ID"
+msgstr "서브-디바이스 ID"
 
 #: pve-manager/www/manager6/qemu/PCIEdit.js:320
 msgid "Sub-Vendor ID"
-msgstr "Sub-Vendor ID"
+msgstr "서브-벤더 ID"
 
 #: pve-manager/www/manager6/storage/CIFSEdit.js:226
 msgid "Subdirectory"
@@ -11198,11 +11200,11 @@ msgstr "작업 동기화"
 #: proxmox-backup/www/window/SyncJobEdit.js:12
 #: proxmox-backup/www/window/SyncJobEdit.js:49
 msgid "Sync Job - Pull Direction"
-msgstr ""
+msgstr "작업 동기화 - 위치 풀"
 
 #: proxmox-backup/www/window/SyncJobEdit.js:35
 msgid "Sync Job - Push Direction"
-msgstr ""
+msgstr "작업 동기화 - 위치 푸시"
 
 #: proxmox-backup/www/config/SyncView.js:29
 #: proxmox-backup/www/window/NotifyOptions.js:116
@@ -11232,11 +11234,11 @@ msgstr "작업 동기화"
 
 #: proxmox-backup/www/window/SyncJobEdit.js:411
 msgid "Sync only encrypted backup snapshots, exclude others."
-msgstr ""
+msgstr "암호화된 백업 스냅샷만 동기화하고, 다른 것은 제외합니다."
 
 #: proxmox-backup/www/window/SyncJobEdit.js:422
 msgid "Sync only verified backup snapshots, exclude others."
-msgstr ""
+msgstr "검증된 백업 스냅샷만 동기화하고, 다른 스냅샷은 제외합니다."
 
 #: pmg-gui/js/LDAPConfig.js:545
 msgid "Synchronize"
